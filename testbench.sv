@@ -24,7 +24,7 @@ module clock_tb ;
   dec dec5(d5,sec1);
   dec dec6(d6,sec0);
   
-   always #500 clk = ~clk; // clock of 1Hz
+   always #500 clk = ~clk; // 1Hz clock
   
   initial
       begin
