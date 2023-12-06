@@ -6,6 +6,5 @@ Using $monitor we can detect the time output (which will be shown by 7-segment-d
 **TestBench:**
 Check if Alarm1 works as expected after the "stop alarm" is ON, and if alarm 2 works well afterward. 
 In addition, it checks if the alarm is always OFF while "alarm enable" is OFF. 
-EPWave is provided in the following file.
+EPWave is provided in the following file. ![image](https://github.com/Yoavyu/Alarm-Clock/assets/140505276/ad1f37ca-02ee-4fd9-be7b-7e9d275789b6) ![image](https://github.com/Yoavyu/Alarm-Clock/assets/140505276/e77428b6-2bb3-427a-be65-1385bbb8669a)
 
-**The whole project can be found at https://www.edaplayground.com/x/qPFd**
