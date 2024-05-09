@@ -1,3 +1,13 @@
+Explained:
+-Time starts at (GMT-5) 
+-Reset is pushed after 16 sec
+-First alarm starts at 00:01:00 and goes for 15 sec, then 'stop alarm' is pushed
+-Second alarm starts at 00:04:00 and goes for 60 sec because no one stopped it
+-After 10 min alarm is getting disabled and reset is pushed 
+-Then it goes all over again but now alarm is disabled so it acting like a regular clock without an alarm
+
+
+
 CPU time: 1.136 seconds to compile + .975 seconds to elab + 1.091 seconds to link
 Chronologic VCS simulator copyright 1991-2023
 Contains Synopsys proprietary information.
